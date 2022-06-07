@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surajrpanchal
-- 👀 I’m interested in Microsoft technology stacks, Gaming
+- 👀 I’m interested in Microsoft technology stacks and PC Gaming
 - 💻 I'm Full Stack Developer | .Net core (ASP.Net, Web API, Windows form, HostedService), Dapper, Entity Framework Core, RabbitMQ, Micro-service, Angular, NodeJs, Sql Server, MongoDB
-- 🌱 I’m currently learning Front-end languages
+- 🌱 I’m currently learning Front-end technology stacks
 - 📫 How to reach me : reach out to me on twitter via @surajrpanchal
